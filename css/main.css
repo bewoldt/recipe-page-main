@@ -83,7 +83,7 @@ h2 {
   padding: 1.7rem;
   border-radius: 12px;
   margin-block: 2rem;
-  & h3 {
+  & h2 {
     color: var(--dark-raspberry);
     margin-top: 0;
     font-family: "Outfit", sans-serif;
